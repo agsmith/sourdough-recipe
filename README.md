@@ -8,7 +8,7 @@
 - 9am feed 60g water/AP
 - 2pm make dough (80% hydration)
   - 500g Bread Flour
-  - 400g Water
+  - 350g Water
   - 10g salt
   - 25g Olive Oil
   - 2-3 handful of herbs (optional)
@@ -21,4 +21,4 @@
 - 4pm or After 1 hour reduce heat to 400 degrees, place loaf in bread pan and bake covered for 30 mins
 - 4:30pm or after 30 mins, take off cover and bake an additional 30-40 mins
 - 5pm of after 30 more minutes, remove loaf and rest for 1 hour
-- 6pm or after 1 hour, slice and devour 
+- 6pm or after 1 hour, slice and devour
