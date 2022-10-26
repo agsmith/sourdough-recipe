@@ -1,5 +1,5 @@
 # sourdough-recipe
-
+### This shit is bomb
 ## Day 0
 - Noon feed 60g water/AP to cold starter
 - 8pm feed 60g water/AP
