@@ -6,9 +6,10 @@
 
 ## Day 1
 - 9am feed 60g water/AP
-- 2pm make dough (80% hydration)
+- 2pm make dough (75% hydration)
+  - 150-180g well-fed starter
   - 500g Bread Flour
-  - 350g Water
+  - 375g Water
   - 10g salt
   - 25g Olive Oil
   - 2-3 handful of herbs (optional)
