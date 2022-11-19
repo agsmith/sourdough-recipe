@@ -13,7 +13,8 @@
   - 10g salt
   - 25g Olive Oil
   - 2-3 handful of herbs (optional)
-- 2pm Rest on counter covered in damp cloth and stretch and fold every 30 mins for 2-3 hours
+- 2pm Autolyze 30 mins 
+- 2:30pm Rest on counter covered in damp cloth and stretch and fold every 30 mins for 2-3 hours
 - 6pm Move to Bulk Rise red container overnight covered with damp cloth
 
 ## Day 2
