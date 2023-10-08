@@ -24,3 +24,6 @@
 - 4:30pm or after 30 mins, take off cover and bake an additional 30-40 mins
 - 5pm of after 30 more minutes, remove loaf and rest for 1 hour
 - 6pm or after 1 hour, slice and devour
+
+### Notes
+- Pyrex weighs 536g without lid
