@@ -6,7 +6,7 @@
 
 ## Day 1
 - 9am feed 60g water/AP
-- 2pm make dough (75% hydration) (ingediates scale linearlly for multiple loaves)
+- 2pm make dough (75% hydration) (ingredients scale linearlly for multiple loaves)
   - 150-180g well-fed starter
   - 500g Bread Flour
   - 375g Water
