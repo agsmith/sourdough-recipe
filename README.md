@@ -27,3 +27,10 @@
 
 ### Notes
 - Pyrex weighs 536g without lid
+
+# Common weights for 2 loaves
+350g well-fed starter
+1kg Bread Flour
+750g Water
+20g salt
+50g Olive Oil
